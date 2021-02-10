@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/muze/static/css/main.6454c60f.chunk.css",
+    "main.js": "/muze/static/js/main.6fcaf47b.chunk.js",
+    "main.js.map": "/muze/static/js/main.6fcaf47b.chunk.js.map",
+    "runtime-main.js": "/muze/static/js/runtime-main.66c3c7c3.js",
+    "runtime-main.js.map": "/muze/static/js/runtime-main.66c3c7c3.js.map",
+    "static/js/2.b071fc23.chunk.js": "/muze/static/js/2.b071fc23.chunk.js",
+    "static/js/2.b071fc23.chunk.js.map": "/muze/static/js/2.b071fc23.chunk.js.map",
+    "static/js/3.4be2efdd.chunk.js": "/muze/static/js/3.4be2efdd.chunk.js",
+    "static/js/3.4be2efdd.chunk.js.map": "/muze/static/js/3.4be2efdd.chunk.js.map",
+    "index.html": "/muze/index.html",
+    "static/css/main.6454c60f.chunk.css.map": "/muze/static/css/main.6454c60f.chunk.css.map",
+    "static/js/2.b071fc23.chunk.js.LICENSE.txt": "/muze/static/js/2.b071fc23.chunk.js.LICENSE.txt",
+    "static/media/1..e7667082.svg": "/muze/static/media/1..e7667082.svg",
+    "static/media/1.p.5e6305d6.svg": "/muze/static/media/1.p.5e6305d6.svg",
+    "static/media/2..f640d4c5.svg": "/muze/static/media/2..f640d4c5.svg",
+    "static/media/2.p.50318665.svg": "/muze/static/media/2.p.50318665.svg",
+    "static/media/3..c272f36c.svg": "/muze/static/media/3..c272f36c.svg",
+    "static/media/3.p.e5053306.svg": "/muze/static/media/3.p.e5053306.svg",
+    "static/media/4..66069bd6.svg": "/muze/static/media/4..66069bd6.svg",
+    "static/media/4.p.6e5fb622.svg": "/muze/static/media/4.p.6e5fb622.svg",
+    "static/media/5..db365742.svg": "/muze/static/media/5..db365742.svg",
+    "static/media/6..f3767d7d.svg": "/muze/static/media/6..f3767d7d.svg",
+    "static/media/POLYKSENA.70df1904.svg": "/muze/static/media/POLYKSENA.70df1904.svg",
+    "static/media/TROYA.bee31102.svg": "/muze/static/media/TROYA.bee31102.svg",
+    "static/media/cancel.13b058e4.svg": "/muze/static/media/cancel.13b058e4.svg",
+    "static/media/leftClick.77912d84.svg": "/muze/static/media/leftClick.77912d84.svg",
+    "static/media/leftHand.1381da67.svg": "/muze/static/media/leftHand.1381da67.svg",
+    "static/media/maviTarihçe.836072fd.svg": "/muze/static/media/maviTarihçe.836072fd.svg",
+    "static/media/mitolojisi.1538015a.svg": "/muze/static/media/mitolojisi.1538015a.svg",
+    "static/media/rightClick.af6e04c8.svg": "/muze/static/media/rightClick.af6e04c8.svg",
+    "static/media/rightHand.95e35363.svg": "/muze/static/media/rightHand.95e35363.svg",
+    "static/media/tarihce.f2276496.svg": "/muze/static/media/tarihce.f2276496.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66c3c7c3.js",
+    "static/js/2.b071fc23.chunk.js",
+    "static/css/main.6454c60f.chunk.css",
+    "static/js/main.6fcaf47b.chunk.js"
+  ]
+}
